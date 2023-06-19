@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Notifier</string>
+    <string name="nome_broker">Nome Broker</string>
+    <string name="usuario">Usuario</string>
+    <string name="senha">Senha</string>
+    <string name="t_pico">Tópico</string>
+    <string name="eventos_ifood">Eventos Ifood</string>
+    <string name="iniciar">Iniciar</string>
+    <string name="eventos_zapzap">Eventos ZapZap</string>
+</resources>
